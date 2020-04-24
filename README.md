@@ -1,2 +1,0 @@
-# CPD30-2
-CPD30Test2
